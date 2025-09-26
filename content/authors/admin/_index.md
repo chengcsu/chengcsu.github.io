@@ -36,14 +36,14 @@ profiles:
   - icon: at-symbol
     url: 'mailto:obaiga830@gmail.com'
     label: E-mail Me
-##  - icon: brands/x
-##    url: https://twitter.com/AlexAIResearch
+  - icon: brands/x
+    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
     url: https://github.com/chengcsu
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/cheng-guo-csu
-##  - icon: academicons/google-scholar
-##    url: https://scholar.google.com/citations?user=alexjohnson
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=alexjohnson
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-6642-4311
 
