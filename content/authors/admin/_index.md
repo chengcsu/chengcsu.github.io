@@ -56,8 +56,8 @@ interests:
 education:
   - area: PhD Computer Engineering
     institution: Colorado State University, USA
-    date_start: 2019
-    date_end: 2025
+    date_start: 2019-01-01
+    date_end: ''
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
@@ -66,15 +66,15 @@ education:
     
   - area: MS Computer Engineering
     institution: Colorado State University, USA
-    date_start: 2016
-    date_end: 2018
+    date_start: 2016-08-01
+    date_end: 2018-12-31
     summary: |
       GPA: 4.0/4.0
       Specialized in machine learning and robotics.
   - area: BS Computer Science
     institution: University of Jinan, China
-    date_start: 2011
-    date_end: 2015
+    date_start: 2011-09-01
+    date_end: 2015-07-31
     summary: |
       GPA: 3.9/4.0
       Minored in Mathematics. President of AI Club.
