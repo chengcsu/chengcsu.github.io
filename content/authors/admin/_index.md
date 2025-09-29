@@ -23,7 +23,7 @@ superuser: true
 highlight_name: false
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Human–Machine Collaboration for Biodiversity Monitoring
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
