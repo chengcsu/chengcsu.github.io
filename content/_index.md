@@ -51,7 +51,7 @@ sections:
         featured_only: true
     design:
      # view: article-grid
-     view: card
+      view: card
       columns: 1
   - block: collection
     content:
