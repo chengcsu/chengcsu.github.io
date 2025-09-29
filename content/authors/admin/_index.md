@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Cheng Guo
+title: Cheng Guo 郭澄
 
 # Name pronunciation (optional)
-name_pronunciation: '郭澄'
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Cheng
@@ -48,36 +48,35 @@ profiles:
     url: https://orcid.org/0000-0002-6642-4311
 
 interests:
-  - Large Language Models
+  - Machine Learning AI
   - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Statistical Analysis
+  - Animal Identification
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: PhD Computer Engineering
+    institution: Colorado State University, USA
+    date_start: 2019
+    date_end: 2025
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    
+  - area: MS Computer Engineering
+    institution: Colorado State University, USA
+    date_start: 2016
+    date_end: 2018
     summary: |
       GPA: 4.0/4.0
-
       Specialized in machine learning and robotics.
   - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    institution: University of Jinan, China
+    date_start: 2011
+    date_end: 2015
     summary: |
       GPA: 3.9/4.0
-
       Minored in Mathematics. President of AI Club.
 
 work:
