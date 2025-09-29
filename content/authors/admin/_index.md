@@ -73,8 +73,8 @@ education:
       Specialized in machine learning and robotics.
   - area: BS Computer Science
     institution: University of Jinan, China
-    date_start: 2011-09-01
-    date_end: 2015-07-31
+    date_start: 2011- - 
+    date_end: 2015- -
     summary: |
       GPA: 3.9/4.0
       Minored in Mathematics. President of AI Club.
