@@ -50,7 +50,8 @@ sections:
           - publications
         featured_only: true
     design:
-      view: article-grid
+     # view: article-grid
+     view: card
       columns: 1
   - block: collection
     content:
@@ -61,7 +62,7 @@ sections:
           - publications
         exclude_featured: true
     design:
-      view: card
+      view: citation
   - block: collection
     id: talks
     content:
