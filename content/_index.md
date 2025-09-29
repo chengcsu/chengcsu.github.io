@@ -51,7 +51,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 3
+      columns: 2
   - block: collection
     content:
       title: Recent Publications
@@ -80,7 +80,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: blog
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 0
       # Filter on criteria
       filters:
         author: ''
