@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cheng Guo 郭澄
+title: Cheng Guo   郭澄
 
 # Name pronunciation (optional)
 name_pronunciation: 
