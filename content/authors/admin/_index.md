@@ -135,11 +135,11 @@ skills:
         percent: 70
         icon: book-open
 
-languages:
-  - name: Chinese (Mandarin)
-    percent: 100
-  - name: English
-    percent: 100
+# languages:
+#  - name: Chinese (Mandarin)
+#    percent: 100
+#  - name: English
+#    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
