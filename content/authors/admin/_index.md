@@ -53,10 +53,6 @@ interests:
   - Statistical Analysis
   - Animal Identification
 
-languages:
-  - Chinese (Mandarin)
-  - English
-
 education:
   - area: PhD Computer Engineering
     institution: Colorado State University, USA
@@ -136,7 +132,7 @@ skills:
         icon: book-open
 
 languages:
-  - name: Chinese(mandarin)
+  - name: Chinese (Mandarin)
     percent: 100
   - name: English
     percent: 100
