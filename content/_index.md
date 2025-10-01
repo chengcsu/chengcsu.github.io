@@ -38,11 +38,12 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+            My current research focuses on developing automated algorithms for individual animal identification that minimize human involvement while maintaining high reliability. In particular, I work on small-scale, real-world, unlabeled camera trap image sets of African leopards.
+    
+    More broadly, I am passionate about applying machine learning and computer vision to diverse image-pattern recognition challenges, including wildlife conservation, person identification, and medical image analysis. I aim to bridge advanced AI techniques with real-world problems, creating tools that enable scientists and practitioners to make data-driven decisions with greater efficiency and accuracy.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+    Outside of research, I share insights through academic publications, conference presentations, and collaborative projects. I am always open to connecting with researchers and practitioners interested in conservation technology and applied AI. Please feel free to reach out if you would like to collaborate.😃 
+    
     design:
       columns: '1'
   - block: collection
