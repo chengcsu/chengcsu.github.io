@@ -22,6 +22,8 @@ sections:
         about: ''
         education: ''
         interests: ''
+        skills: 'Technical Skills'
+        hobbies: ''
         languages: ''
     design:
       # Apply a gradient background
