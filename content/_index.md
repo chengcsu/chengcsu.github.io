@@ -23,7 +23,7 @@ sections:
         education: ''
         interests: ''
         skills: 'Technical Skills'
-        hobbies: ''
+        hobbies: 'Hobbies'
         languages: ''
     design:
       # Apply a gradient background
