@@ -60,7 +60,7 @@ skills:
   - SQL
   - R
     
-hobbies:
+fun:
   - Hiking
   - Ski
   - Photograph
