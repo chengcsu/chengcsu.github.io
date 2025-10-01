@@ -44,39 +44,40 @@ sections:
 
         Outside of research, I share insights through academic publications, conference presentations, and collaborative projects. I am always open to connecting with researchers and practitioners interested in conservation technology and applied AI. Please feel free to reach out if you would like to collaborate.😃 
     
-    design:
-      columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-     # view: article-grid
-      view: card
-      columns: 1
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: true
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
+#    design:
+#      columns: '1'
+#  - block: collection
+#    id: papers
+#    content:
+#      title: Featured Publications
+#      filters:
+#        folders:
+#          - publications
+#        featured_only: true
+#    design:
+#     # view: article-grid
+#      view: card
+#      columns: 1
+#  - block: collection
+#    content:
+#      title: Recent Publications
+#      text: ''
+#      filters:
+#        folders:
+#          - publications
+#        exclude_featured: true
+#    design:
+#      view: citation
+#  - block: collection
+#    id: talks
+#    content:
+#      title: Recent & Upcoming Talks
+#      filters:
+#        folders:
+#          - events
+#    design:
+#     view: card
+
   - block: collection
     id: news
     content:
@@ -106,6 +107,7 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+    
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
