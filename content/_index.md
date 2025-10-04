@@ -78,6 +78,9 @@ sections:
 #    design:
 #     view: card
 
+    design:
+      columns: '2'
+  
   - block: collection
     id: news
     content:
@@ -104,6 +107,9 @@ sections:
     design:
       # Choose a layout view
       view: card
+    
+      columns: 2
+    
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
