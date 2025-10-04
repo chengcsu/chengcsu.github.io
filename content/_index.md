@@ -85,14 +85,12 @@ sections:
       title: Recent News
       subtitle: ''
       text: ''
-      # # Page type to display. E.g. post, talk, publication...
-      # page_type: blog
+      # Page type to display. E.g. post, talk, publication...
+      page_type: blog
       # Choose how many pages you would like to display (0 = all pages)
-      count: 0
+      count: 5
       # Filter on criteria
       filters:
-        folders:
-          - events
         author: ''
         category: ''
         tag: ''
@@ -100,7 +98,6 @@ sections:
         exclude_future: false
         exclude_past: false
         publication_type: ''
-
       # Choose how many pages you would like to offset by
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
@@ -108,13 +105,6 @@ sections:
     design:
       # Choose a layout view
       view: card
-      columns: 3
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-    
-      card:
-        # Card background color (CSS class)
-        css_class: 'bg-primary-300'
-        css_style: ''  
----
