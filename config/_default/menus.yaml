@@ -15,10 +15,10 @@ main:
     weight: 12
   - name: Talks
     url: /#talks
-    weight: 20
+    weight: 13
   - name: News
     url: /#news
-    weight: 13
+    weight: 20
 #  - name: Projects
 #    url: projects/
 #    weight: 30
