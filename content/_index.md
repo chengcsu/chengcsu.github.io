@@ -56,9 +56,10 @@ sections:
           - publications
         featured_only: false
     design:
-      view: article-grid
-    #  view: card
-      columns: 2
+   #   view: article-grid
+   #   columns: 2
+      view: card
+      
     
   - block: collection
     content:
