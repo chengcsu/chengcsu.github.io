@@ -47,18 +47,18 @@ sections:
     design:
       columns: '1'
     
-#  - block: collection
-#    id: papers
-#    content:
-#      title: Featured Publications
-#      filters:
-#        folders:
-#          - publications
-#        featured_only: true
-#    design:
-#     # view: article-grid
-#      view: card
-#      columns: 1
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publications
+        featured_only: true
+    design:
+     # view: article-grid
+      view: card
+      columns: 1
 #  - block: collection
 #    content:
 #      title: Recent Publications
@@ -108,7 +108,7 @@ sections:
     design:
       # Choose a layout view
       view: card
-      columns: '2'
+      columns: 2
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
