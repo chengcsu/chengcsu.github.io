@@ -103,7 +103,7 @@ sections:
       order: desc
       # Choose a layout view
       view: card
-      columns: 2
+      # columns: 2
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
