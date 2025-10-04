@@ -92,7 +92,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - news
+          - events
         author: ''
         category: ''
         tag: ''
