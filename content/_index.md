@@ -42,10 +42,11 @@ sections:
     
         More broadly, I am passionate about applying machine learning and computer vision to diverse image-pattern recognition challenges, including wildlife conservation, person identification, and medical image analysis. I aim to bridge advanced AI techniques with real-world problems, creating tools that enable scientists and practitioners to make data-driven decisions with greater efficiency and accuracy.
 
-        Outside of research, I share insights through academic publications, conference presentations, and collaborative projects. I am always open to connecting with researchers and practitioners interested in conservation technology and applied AI. Please feel free to reach out if you would like to collaborate.😃 
+        Outside of research, I share insights through academic publications, conference presentations, and collaborative projects. I am always open to connecting with researchers and practitioners interested in conservation technology and applied AI. Please feel free to reach out if you would like to collaborate.😃
+        
+    design:
+      columns: '1'
     
-#    design:
-#      columns: '1'
 #  - block: collection
 #    id: papers
 #    content:
@@ -77,9 +78,6 @@ sections:
 #          - events
 #    design:
 #     view: card
-
- #   design:
- #     columns: '2'
   
   - block: collection
     id: news
@@ -108,8 +106,6 @@ sections:
       # Choose a layout view
       view: card
     
-      columns: 2
-    
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
@@ -118,4 +114,6 @@ sections:
         # Card background color (CSS class)
         css_class: 'bg-primary-300'
         css_style: ''
+
+      columns: 2
 ---
