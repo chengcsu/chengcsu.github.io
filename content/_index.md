@@ -91,8 +91,8 @@ sections:
       count: 0
       # Filter on criteria
       filters:
-	folders: 
-	  - news
+		folders: 
+	  	  - news
         author: ''
         category: ''
         tag: ''
