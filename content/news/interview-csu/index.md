@@ -6,7 +6,5 @@ tags:
 authors:
   - Josh Rhoten
 date: 2025-03-03
-links:
-  - type: site
-    url: "https://source.colostate.edu/graduate-student-led-research-uses-machine-learning-to-help-track-endangered-leopards/"
+external_link: "https://source.colostate.edu/graduate-student-led-research-uses-machine-learning-to-help-track-endangered-leopards/"
 ---
