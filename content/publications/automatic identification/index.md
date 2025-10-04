@@ -48,7 +48,7 @@ hugoblox:
 # Custom links
 links:
   - type: pdf
-    url: ./publications/automatic%20identification/paper.pdf
+    url: /upload/Automatic Identification of Individual African Leopards in Unlabeled Camera Trap Images.pdf
   - type: code
     url: https://github.com/chengcsu/Automatic-individual-animal-identification
 #  - type: dataset
