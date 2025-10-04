@@ -106,14 +106,14 @@ sections:
       # Choose a layout view
       view: card
     
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+    #  # Reduce spacing
+    #  spacing:
+    #    padding: [0, 0, 0, 0]
     
-      card:
-        # Card background color (CSS class)
-        css_class: 'bg-primary-300'
-        css_style: ''
+    #  card:
+    #    # Card background color (CSS class)
+    #    css_class: 'bg-primary-300'
+    #    css_style: ''
 
       columns: 2
 ---
