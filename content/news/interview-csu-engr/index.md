@@ -6,7 +6,5 @@ tags:
 authors:
   - Andrea Leland
 date: 2023-02-13
-links:
-  - type: site
-    url: "https://engr.source.colostate.edu/research-spotlight-five-questions-with-ece-graduate-student-cheng-guo/"
+external_link: "https://engr.source.colostate.edu/research-spotlight-five-questions-with-ece-graduate-student-cheng-guo/"
 ---
