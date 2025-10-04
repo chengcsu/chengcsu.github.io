@@ -106,6 +106,7 @@ sections:
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
+      columns: 2
       # Choose a layout view
       view: card
       # Reduce spacing
