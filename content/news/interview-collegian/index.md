@@ -6,7 +6,5 @@ tags:
 authors:
   - Katie Fisher
 date: 2025-04-02
-links:
-  - type: site
-    url: "https://collegian.com/articles/featured/2025/04/category-science-doctoral-candidates-machine-learning-assists-in-african-leopard-tracking/#"
+external_link: "https://collegian.com/articles/featured/2025/04/category-science-doctoral-candidates-machine-learning-assists-in-african-leopard-tracking/#"
 ---
