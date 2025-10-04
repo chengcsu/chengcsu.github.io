@@ -92,7 +92,7 @@ sections:
       count: 0
       # Filter on criteria
       filters:
-    	folders:
+        folders:
           - news
         author: ''
         category: ''
