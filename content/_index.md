@@ -101,10 +101,9 @@ sections:
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
-    design:
-      columns: 2
       # Choose a layout view
       view: card
+      columns: 2
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
