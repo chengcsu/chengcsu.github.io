@@ -1,8 +1,12 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: Doctoral candidate’s machine learning assists in African leopard tracking
+summary: A research feature by Colorado State University highlighting Cheng Guo’s machine learning work for identifying endangered leopards.
 tags:
-  - CV
-date: 2022-01-01
-external_link: http://github.com
+  - Interview
+authors:
+  - Josh Rhoten
+date: 2025-03-03
+links:
+  - type: site
+    url: "https://source.colostate.edu/graduate-student-led-research-uses-machine-learning-to-help-track-endangered-leopards/"
 ---
