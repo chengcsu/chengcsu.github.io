@@ -56,8 +56,8 @@ sections:
           - publications
         featured_only: true
     design:
-     # view: article-grid
-      view: card
+      view: article-grid
+    #  view: card
       columns: 2
 #  - block: collection
 #    content:
@@ -107,7 +107,8 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: card
+      view: article-grid
+     # view: card
       columns: 2
       # Reduce spacing
       spacing:
