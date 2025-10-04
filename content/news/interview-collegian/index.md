@@ -1,12 +1,12 @@
 ---
 title: Doctoral candidate’s machine learning assists in African leopard tracking
-summary: A research feature by Colorado State University highlighting Cheng Guo’s machine learning work for identifying endangered leopards.
+summary: A news feature by **The Rocky Mountain Collegian** highlighting Cheng Guo’s AI-driven leopard identification research.
 tags:
   - Interview
 authors:
-  - Josh Rhoten
-date: 2025-03-03
+  - Katie Fisher
+date: 2025-04-02
 links:
   - type: site
-    url: "https://source.colostate.edu/graduate-student-led-research-uses-machine-learning-to-help-track-endangered-leopards/"
+    url: "https://collegian.com/articles/featured/2025/04/category-science-doctoral-candidates-machine-learning-assists-in-african-leopard-tracking/#"
 ---
