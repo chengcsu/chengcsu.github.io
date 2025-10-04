@@ -7,7 +7,7 @@ title: 'Automatic Identification of Individual African Leopards in Unlabeled Cam
 authors:
   - admin
   - Agnieszka Miguel
-  - Anthony A Maciejewski
+  - Anthony A. Maciejewski
 
 # Author notes (optional)
 # author_notes:
@@ -48,7 +48,7 @@ hugoblox:
 # Custom links
 links:
   - type: pdf
-    url: Automatic%20Identification%20of%20Individual%20African%20Leopards%20in%20Unlabeled%20Camera%20Trap%20Images.pdf
+    url: ./Automatic%20Identification%20of%20Individual%20African%20Leopards%20in%20Unlabeled%20Camera%20Trap%20Images.pdf
   - type: code
     url: https://github.com/chengcsu/Automatic-individual-animal-identification
 #  - type: dataset
@@ -82,6 +82,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-# > [!NOTE]
-# > Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
