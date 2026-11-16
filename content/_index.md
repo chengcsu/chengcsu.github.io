@@ -20,7 +20,7 @@ sections:
         url: uploads/resume.pdf
       button2:
         text: 下载简历
-        url: uploads/resume.pdf
+        url: uploads/chinese resume.pdf
 
       headings:
         about: ''
