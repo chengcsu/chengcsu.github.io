@@ -18,7 +18,7 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
-      button:
+      button2:
         text: 下载简历
         url: uploads/resume.pdf
 
