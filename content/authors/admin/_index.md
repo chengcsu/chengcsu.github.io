@@ -27,8 +27,8 @@ role: Human–Machine Collaboration for Biodiversity Monitoring
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Colorado State University
-    url: https://www.engr.colostate.edu/
+  - name: Shandong University of Science and Technology
+    url: https://www.sdust.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
